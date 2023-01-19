@@ -1,2 +1,2 @@
-# InstaClone-backend
+# instaclone-backend
 backend of instaclone app
